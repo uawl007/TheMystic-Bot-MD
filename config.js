@@ -1,4 +1,4 @@
-import { watchFile, unwatchFile } from 'fs'
+teimport { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 import fs from 'fs'
@@ -8,6 +8,7 @@ import axios from 'axios'
 import moment from 'moment-timezone' 
 
 global.owner = [
+  ['527122257918', '𝑈𝑅𝐼𝐸𝐿 𝑊', true],
   ['5219992095479', '👑 Mystic - Creador 👑', true],
   ['50499698072', '💫 Mystic - Collaborator 1 💫', true],
   ['51940617554', '💫 Mystic - Collaborator 2 💫', true],
